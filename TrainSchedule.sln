@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainSchedule", "TrainSchedule\TrainSchedule.csproj", "{7F58CBCF-0032-48F9-A856-1C5A245B8E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F58CBCF-0032-48F9-A856-1C5A245B8E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F58CBCF-0032-48F9-A856-1C5A245B8E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F58CBCF-0032-48F9-A856-1C5A245B8E96}.Debug|x64.ActiveCfg = Debug|x64
+		{7F58CBCF-0032-48F9-A856-1C5A245B8E96}.Debug|x64.Build.0 = Debug|x64
+		{7F58CBCF-0032-48F9-A856-1C5A245B8E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F58CBCF-0032-48F9-A856-1C5A245B8E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F58CBCF-0032-48F9-A856-1C5A245B8E96}.Release|x64.ActiveCfg = Release|x64
+		{7F58CBCF-0032-48F9-A856-1C5A245B8E96}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C270B4ED-403D-4F3B-88DE-3F05951B4BE0}
+	EndGlobalSection
+EndGlobal
